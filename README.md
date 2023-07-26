@@ -2,6 +2,8 @@
 
 A simple Windows form application that displays several key timezones for general use.
 
+![alt text](https://github.com/richardatinchcape/desktop-time-tracker-widget/blob/master/Screenshots/mainwindow.png)
+
 ## Description
 
 Working in a global company can be challenging given the time differences across different timezones. While most collaboration tools cater for scenarios like this, there's always
