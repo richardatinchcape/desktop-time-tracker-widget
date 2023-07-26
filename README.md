@@ -10,13 +10,13 @@ Working in a global company can be challenging given the time differences across
 a time when you just wish you can easily see multiple timezones in a convenient way. This simple desktop application does just that. Displaying the time in key timezones while also
 displaying the seconds counter for certain use-cases.
 
-CO - Colombia (UTC-5)
-CH - Chile (UTC-4)
-LV - Latvia (UTC-3)
-UK - United Kingdom (UTC+1)
-IN - India (UTC+5:30)
-PH - Philippines (UTC+8)
-AU - Australia, Sydney (UTC+10)
+* CO - Colombia (UTC-5)
+* CH - Chile (UTC-4)
+* LV - Latvia (UTC-3)
+* UK - United Kingdom (UTC+1)
+* IN - India (UTC+5:30)
+* PH - Philippines (UTC+8)
+* AU - Australia, Sydney (UTC+10)
 
 ## Getting Started
 
