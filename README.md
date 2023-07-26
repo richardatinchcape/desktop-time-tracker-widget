@@ -39,6 +39,8 @@ Contributors names and contact info
 Richard Umayan  
 [@richardatinchcape](https://github.com/richardatinchcape)
 
+From Richard and Business Apps PH with ❤️
+
 ## Version History
 
 * 1.0
